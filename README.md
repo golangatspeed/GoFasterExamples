@@ -53,12 +53,12 @@ One caveat, not all examples are demonstrations of best practice :)
 14. Managing number constants with iota (Go Playground: [https://go.dev/play/p/h4fNoptnCJZ](https://go.dev/play/p/h4fNoptnCJZ))
 15. Rebasing the numbering from 1
 16. Non-linear constant sequences (Go Playground: [https://go.dev/play/p/8QypEyOoxT2](https://go.dev/play/p/8QypEyOoxT2))
-17. Values used in place of named constants
-18. Global and function scope
-19. Local scope in control structure
-20. Pass by value
-21. Pass by reference
-22. Obtaining a pointer directly
+17. Values used in place of named constants (Go Playground: [https://go.dev/play/p/n-POyR0-k7a](https://go.dev/play/p/n-POyR0-k7a))
+18. Global and function scope (Go Playground: [https://go.dev/play/p/V7OT8HX_XMP](https://go.dev/play/p/V7OT8HX_XMP))
+19. Local scope in control structure (Go Playground: [https://go.dev/play/p/edNkZtJuCPk](https://go.dev/play/p/edNkZtJuCPk))
+20. Pass by value (Go Playground: [https://go.dev/play/p/uESKRz6r-tS](https://go.dev/play/p/uESKRz6r-tS))
+21. Pass by reference (Go Playground: [https://go.dev/play/p/7Ne6OPnCslN](https://go.dev/play/p/7Ne6OPnCslN))
+22. Obtaining a pointer directly (Go Playground: [https://go.dev/play/p/t3iJJ47laIt](https://go.dev/play/p/t3iJJ47laIt))
 
 ### Chapter 7 - Data types
 
