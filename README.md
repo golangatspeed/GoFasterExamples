@@ -45,20 +45,20 @@ One caveat, not all examples are demonstrations of best practice :)
 
 ### Chapter 6 - Variables and constants
 
-9. Recommended variable declaration styles
-10. All variable declaration styles (Go Playground: [https://go.dev/play/p/c8eFFqUfVTz](https://go.dev/play/p/c8eFFqUfVTz))
-11. Discarding with the blank identifier (Go Playground: [https://go.dev/play/p/NYjfpotoOtx](https://go.dev/play/p/NYjfpotoOtx))
-12. Loose typing of number constants (Go Playground: [https://go.dev/play/p/MC8HsTfnVz9](https://go.dev/play/p/MC8HsTfnVz9))
-13. Managing number constants manually (Go Playground: [https://go.dev/play/p/EVMSF3BCCn8](https://go.dev/play/p/EVMSF3BCCn8))
-14. Managing number constants with iota (Go Playground: [https://go.dev/play/p/h4fNoptnCJZ](https://go.dev/play/p/h4fNoptnCJZ))
-15. Rebasing the numbering from 1
-16. Non-linear constant sequences (Go Playground: [https://go.dev/play/p/8QypEyOoxT2](https://go.dev/play/p/8QypEyOoxT2))
-17. Values used in place of named constants (Go Playground: [https://go.dev/play/p/n-POyR0-k7a](https://go.dev/play/p/n-POyR0-k7a))
-18. Global and function scope (Go Playground: [https://go.dev/play/p/V7OT8HX_XMP](https://go.dev/play/p/V7OT8HX_XMP))
-19. Local scope in control structure (Go Playground: [https://go.dev/play/p/edNkZtJuCPk](https://go.dev/play/p/edNkZtJuCPk))
-20. Pass by value (Go Playground: [https://go.dev/play/p/uESKRz6r-tS](https://go.dev/play/p/uESKRz6r-tS))
-21. Pass by reference (Go Playground: [https://go.dev/play/p/7Ne6OPnCslN](https://go.dev/play/p/7Ne6OPnCslN))
-22. Obtaining a pointer directly (Go Playground: [https://go.dev/play/p/t3iJJ47laIt](https://go.dev/play/p/t3iJJ47laIt))
+9. [Recommended variable declaration styles](chapter_6/9_recommended_variable_declaration_styles/main.go)
+10. [All variable declaration styles](chapter_6/10_all_variable_declaration_styles/main.go) (Go Playground: [https://go.dev/play/p/c8eFFqUfVTz](https://go.dev/play/p/c8eFFqUfVTz))
+11. [Discarding with the blank identifier](chapter_6/11_discarding_with_the_blank_identifier/main.go) (Go Playground: [https://go.dev/play/p/NYjfpotoOtx](https://go.dev/play/p/NYjfpotoOtx))
+12. [Loose typing of number constants](chapter_6/12_loose_typing_of_number_constants/main.go) (Go Playground: [https://go.dev/play/p/MC8HsTfnVz9](https://go.dev/play/p/MC8HsTfnVz9))
+13. [Managing number constants manually](chapter_6/13_managing_number_constants_manually/main.go) (Go Playground: [https://go.dev/play/p/EVMSF3BCCn8](https://go.dev/play/p/EVMSF3BCCn8))
+14. [Managing number constants with iota](chapter_6/14_managing_number_constants_with_iota/main.go) (Go Playground: [https://go.dev/play/p/h4fNoptnCJZ](https://go.dev/play/p/h4fNoptnCJZ))
+15. [Rebasing the numbering from 1](chapter_6/15_rebasing_the_numbering_from_1/main.go)
+16. [Non-linear constant sequences](chapter_6/16_non-linear_constant_sequences/main.go) (Go Playground: [https://go.dev/play/p/8QypEyOoxT2](https://go.dev/play/p/8QypEyOoxT2))
+17. [Values used in place of named constants](chapter_6/17_values_used_in_place_of_named_constants/main.go) (Go Playground: [https://go.dev/play/p/n-POyR0-k7a](https://go.dev/play/p/n-POyR0-k7a))
+18. [Global and function scope](chapter_6/18_global_and_function_scope/main.go) (Go Playground: [https://go.dev/play/p/V7OT8HX_XMP](https://go.dev/play/p/V7OT8HX_XMP))
+19. [Local scope in control structure](chapter_6/19_local_scope_in_control_structure/main.go) (Go Playground: [https://go.dev/play/p/edNkZtJuCPk](https://go.dev/play/p/edNkZtJuCPk))
+20. [Pass by value](chapter_6/20_pass_by_value/main.go) (Go Playground: [https://go.dev/play/p/uESKRz6r-tS](https://go.dev/play/p/uESKRz6r-tS))
+21. [Pass by reference](chapter_6/21_pass_by_reference/main.go) (Go Playground: [https://go.dev/play/p/7Ne6OPnCslN](https://go.dev/play/p/7Ne6OPnCslN))
+22. [Obtaining a pointer directly](chapter_6/22_obtaining_a_pointer_directly/main.go) (Go Playground: [https://go.dev/play/p/t3iJJ47laIt](https://go.dev/play/p/t3iJJ47laIt))
 
 ### Chapter 7 - Data types
 
