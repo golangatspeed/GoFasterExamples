@@ -14,10 +14,10 @@ thorough and I'm confident it will help you learn Go, faster.
 
 ### Chapter 1 - Introduction to Go
 
-1. Visibility modifiers
-2. Comment styles
-3. Making the most of comments in documentation
-4. An 'example' function
+1. [Visibility modifiers](chapter_1/1_visibilty_modifiers/exporting.go)
+2. [Comment styles](chapter_1/2_comment_styles/main.go)
+3. [Making the most of comments in documentation](chapter_1/3_making_the_most_of_comments_in_documentation/user.go)
+4. [An 'example' function](chapter_1/4_an_example_function/stringutil_test.go)
 
 ### Chapter 2 - The Go command line interface (CLI)
 
@@ -25,11 +25,11 @@ thorough and I'm confident it will help you learn Go, faster.
 
 ### Chapter 3 - Structure of a Go program
 
-5. Hello World in Go (Go Playground: [https://go.dev/play/p/HbshOM2vDe](https://go.dev/play/p/HbshOM2vDed))
-6. How not to use aliasing (Go Playground: [https://go.dev/play/p/zuXJ0If5OFn](https://go.dev/play/p/zuXJ0If5OFn))
-7. The dot import prefix (Go Playground: [https://go.dev/play/p/SEUbOnOb6wH](https://go.dev/play/p/SEUbOnOb6wH))
-8. Simple package
-9. 
+5. [Hello World in Go](chapter_3/5_hello_world_in_go/main.go) (Go Playground: [https://go.dev/play/p/HbshOM2vDe](https://go.dev/play/p/HbshOM2vDed))
+6. [How not to use aliasing](chapter_3/6_how_not_to_use_aliasing/main.go) (Go Playground: [https://go.dev/play/p/zuXJ0If5OFn](https://go.dev/play/p/zuXJ0If5OFn))
+7. [The dot import prefix](chapter_3/7_the_dot_import_prefix/main.go) (Go Playground: [https://go.dev/play/p/SEUbOnOb6wH](https://go.dev/play/p/SEUbOnOb6wH))
+8. [Simple package](chapter_3/8_simple_package/sideeffect.go)
+
 ### Chapter 4 - Project organisation
 
 ### Chapter 5 - Dependency management
