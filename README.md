@@ -46,13 +46,13 @@ One caveat, not all examples are demonstrations of best practice :)
 ### Chapter 6 - Variables and constants
 
 9. Recommended variable declaration styles
-10. All variable declaration styles
-11. Discarding with the blank identifier
-12. Loose typing of number constants
-13. Managing number constants manually
-14. Managing number constants with iota
+10. All variable declaration styles (Go Playground: [https://go.dev/play/p/c8eFFqUfVTz](https://go.dev/play/p/c8eFFqUfVTz))
+11. Discarding with the blank identifier (Go Playground: [https://go.dev/play/p/NYjfpotoOtx](https://go.dev/play/p/NYjfpotoOtx))
+12. Loose typing of number constants (Go Playground: [https://go.dev/play/p/MC8HsTfnVz9](https://go.dev/play/p/MC8HsTfnVz9))
+13. Managing number constants manually (Go Playground: [https://go.dev/play/p/EVMSF3BCCn8](https://go.dev/play/p/EVMSF3BCCn8))
+14. Managing number constants with iota (Go Playground: [https://go.dev/play/p/h4fNoptnCJZ](https://go.dev/play/p/h4fNoptnCJZ))
 15. Rebasing the numbering from 1
-16. Non-linear constant sequences
+16. Non-linear constant sequences (Go Playground: [https://go.dev/play/p/8QypEyOoxT2](https://go.dev/play/p/8QypEyOoxT2))
 17. Values used in place of named constants
 18. Global and function scope
 19. Local scope in control structure
