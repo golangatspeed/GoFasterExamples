@@ -62,24 +62,24 @@ One caveat, not all examples are demonstrations of best practice :)
 
 ### Chapter 7 - Data types
 
-23. Floating point number addition problem
-24. String cut using byte slice
-25. Identical strings with different lengths
-26. Unicode codepoint with UTF-8 code
-27. Safely obtaining length of a string
-28. Array length, capacity and element initialisation
-29. Array length is part of its type definition
-30. Set array length with the spread operator
-31. Named custom struct type and anonymous struct
-32. Unnamed field properties
-33. Get and set struct fields
-34. Composition and struct embedding
-35. Alignment and impact on memory
-36. Trying to use a nil map
-37. Creating an empty map
-38. Map passed by value
-39. Map passed by reference
-40. Working with maps
+23. Floating point number addition problem (Go Playground: [https://go.dev/play/p/_uoAHQeoh9h](https://go.dev/play/p/_uoAHQeoh9h))
+24. String cut using byte slice (Go Playground: [https://go.dev/play/p/egXJA0gm97x](https://go.dev/play/p/egXJA0gm97x))
+25. Identical strings with different lengths (Go Playground: [https://go.dev/play/p/ujUnmx-LsWu](https://go.dev/play/p/ujUnmx-LsWu))
+26. Unicode codepoint with UTF-8 code (Go Playground: [https://go.dev/play/p/luDIj6DwPAG](https://go.dev/play/p/luDIj6DwPAG))
+27. Safely obtaining length of a string (Go Playground: [https://go.dev/play/p/wTnoddQnjvJ](https://go.dev/play/p/wTnoddQnjvJ))
+28. Array length, capacity and element initialisation (Go Playground: [https://go.dev/play/p/D_hs2NHHoAs](https://go.dev/play/p/D_hs2NHHoAs))
+29. Array length is part of its type definition (Go Playground: [https://go.dev/play/p/xgNuJjZQHZM](https://go.dev/play/p/xgNuJjZQHZM))
+30. Set array length with the spread operator (Go Playground: [https://go.dev/play/p/bxX2YplIPa8](https://go.dev/play/p/bxX2YplIPa8))
+31. Named custom struct type and anonymous struct (Go Playground: [https://go.dev/play/p/gWnMhWF_OVK](https://go.dev/play/p/gWnMhWF_OVK))
+32. Unnamed field properties (Go Playground: [https://go.dev/play/p/hun_q6dx-VC](https://go.dev/play/p/hun_q6dx-VC))
+33. Get and set struct fields (Go Playground: [https://go.dev/play/p/gM5fADxC9gB](https://go.dev/play/p/gM5fADxC9gB))
+34. Composition and struct embedding (Go Playground: [https://go.dev/play/p/6DSmzLgW3Xo](https://go.dev/play/p/6DSmzLgW3Xo))
+35. Alignment and impact on memory (Go Playground: [https://go.dev/play/p/q7GJI1xfEqb](https://go.dev/play/p/q7GJI1xfEqb))
+36. Trying to use a nil map (Go Playground: [https://go.dev/play/p/dOBBmtyVYuV](https://go.dev/play/p/dOBBmtyVYuV))
+37. Creating an empty map (Go Playground: [https://go.dev/play/p/kDhy20FhD6B](https://go.dev/play/p/kDhy20FhD6B))
+38. Map passed by value (Go Playground: [https://go.dev/play/p/i20LKvkaC0J](https://go.dev/play/p/i20LKvkaC0J))
+39. Map passed by reference (Go Playground: [https://go.dev/play/p/lgiCDOYzSrj](https://go.dev/play/p/lgiCDOYzSrj))
+40. Working with maps (Go Playground: [https://go.dev/play/p/6-ht0hCoQFj](https://go.dev/play/p/6-ht0hCoQFj))
 41. Unsafe map access
 42. Safe map access
 43. Creating a slice
