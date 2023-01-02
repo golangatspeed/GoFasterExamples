@@ -80,29 +80,29 @@ One caveat, not all examples are demonstrations of best practice :)
 38. [Map passed by value](chapter_7/38_map_passed_by_value/main.go) (Go Playground: [https://go.dev/play/p/i20LKvkaC0J](https://go.dev/play/p/i20LKvkaC0J))
 39. [Map passed by reference](chapter_7/39_map_passed_by_reference/main.go) (Go Playground: [https://go.dev/play/p/lgiCDOYzSrj](https://go.dev/play/p/lgiCDOYzSrj))
 40. [Working with maps](chapter_7/40_working_with_maps/main.go) (Go Playground: [https://go.dev/play/p/6-ht0hCoQFj](https://go.dev/play/p/6-ht0hCoQFj))
-41. Unsafe map access
-42. Safe map access
-43. Creating a slice
-44. Slice not behaving as a reference type
-45. Safely return the new slice to caller
-46. Slice behaving as a reference type
-47. Reslicing & working with slices
-48. Slices of slices
-49. Using append
-50. Reslicing to remove a specified element from a slice
-51. Using copy to create a slice with new backing array
-52. New Slice backing array with additional capacity
-53. Send and receive on unbuffered channel
-54. The Stringer interface
-55. Implementing Stringer on a custom struct type
-56. Simple transposition error
-57. Type safety using custom types
-58. Implementing the Stringer interface on a custom type
-59. Type conversion examples
-60. This won't print what you expect
-61. fmt.Sprintf to the rescue
-62. Package *strconv* examples
-63. A custom BoolToI helper function
+41. [Unsafe map access](chapter_7/41_unsafe_map_access/main.go) (Go Playground: [https://go.dev/play/p/9jX2B7x1eha](https://go.dev/play/p/9jX2B7x1eha))
+42. [Safe map access](chapter_7/42_safe_map_access/main.go) (Go Playground: [https://go.dev/play/p/F_HX9A1ExNG](https://go.dev/play/p/F_HX9A1ExNG))
+43. [Creating a slice](chapter_7/43_creating_a_slice/main.go) (Go Playground: [https://go.dev/play/p/922R9tr-3Aq](https://go.dev/play/p/922R9tr-3Aq))
+44. [Slice not behaving as a reference type](chapter_7/44_slice_not_behaving_as_a_reference_type/main.go) (Go Playground: [https://go.dev/play/p/0cOx0y5Xc_L](https://go.dev/play/p/0cOx0y5Xc_L))
+45. [Safely return the new slice to caller](chapter_7/45_safely_return_the_new_slice_to_caller/main.go) (Go Playground: [https://go.dev/play/p/A-Lg98S0GRJ](https://go.dev/play/p/A-Lg98S0GRJ))
+46. [Slice behaving as a reference type](chapter_7/46_slice_behaving_as_a_reference_type/main.go) (Go Playground: [https://go.dev/play/p/CvKjbcRyOAr](https://go.dev/play/p/CvKjbcRyOAr))
+47. [Reslicing & working with slices](chapter_7/47_reslicing_&_working_with_slices/main.go) (Go Playground: [https://go.dev/play/p/Aiw7WhYGePH](https://go.dev/play/p/Aiw7WhYGePH))
+48. [Slices of slices](/chapter_7/48_slices_of_slices/main.go) (Go Playground: [https://go.dev/play/p/NAWtoteoj5x](https://go.dev/play/p/NAWtoteoj5x))
+49. [Using append](chapter_7/49_using_append/main.go) (Go Playground: [https://go.dev/play/p/WUPIBwbVCEL](https://go.dev/play/p/WUPIBwbVCEL))
+50. [Reslicing to remove a specified element from a slice](chapter_7/50_reslicing_to_remove_a_specified_element_from_a_slice/main.go) (Go Playground: [https://go.dev/play/p/e_IrhpQHBXE](https://go.dev/play/p/e_IrhpQHBXE))
+51. [Using copy to create a slice with new backing array](chapter_7/51_using_copy_to_create_a_slice_with_new_backing_array/main.go) (Go Playground: [https://go.dev/play/p/YHVH-gE9lYW](https://go.dev/play/p/YHVH-gE9lYW))
+52. [New Slice backing array with additional capacity](chapter_7/52_new_slice_backing_array_with_additional_capacity/main.go) (Go Playground: [https://go.dev/play/p/JMbFUxzyNzK](https://go.dev/play/p/JMbFUxzyNzK))
+53. [Send and receive on unbuffered channel](chapter_7/53_send_and_receive_on_unbuffered_channel/main.go) (Go Playground: [https://go.dev/play/p/f8M2OFSLnJA](https://go.dev/play/p/f8M2OFSLnJA))
+54. [The Stringer interface](chapter_7/54_the_stringer_interface/main.go) (Go Playground: [https://go.dev/play/p/xl1phIcBej1](https://go.dev/play/p/xl1phIcBej1))
+55. [Implementing Stringer on a custom struct type](chapter_7/55_implementing_stringer_on_a_custom_struct_type/main.go) (Go Playground: [https://go.dev/play/p/Oa4sBfwsx78](https://go.dev/play/p/Oa4sBfwsx78))
+56. [Simple transposition error](chapter_7/56_simple_transposition_error/main.go) (Go Playground: [https://go.dev/play/p/XhTIz_A-dxd](https://go.dev/play/p/XhTIz_A-dxd))
+57. [Type safety using custom types](chapter_7/57_type_safety_using_custom_types/main.go) (Go Playground: [https://go.dev/play/p/6UQcR54_wYX](https://go.dev/play/p/6UQcR54_wYX))
+58. [Implementing the Stringer interface on a custom type](chapter_7/58_implementing_the_stringer_interface_on_a_custom_type/main.go) (Go Playground: [https://go.dev/play/p/RSGm_FPhf6L](https://go.dev/play/p/RSGm_FPhf6L))
+59. [Type conversion examples](chapter_7/59_type_conversion_examples/main.go) (Go Playground: [https://go.dev/play/p/FOkyY6XJp1q](https://go.dev/play/p/FOkyY6XJp1q))
+60. [This won't print what you expect](chapter_7/60_this_wont_print_what_you_expect/main.go) (Go Playground: [https://go.dev/play/p/GHVwfyD-mlH](https://go.dev/play/p/GHVwfyD-mlH))
+61. [fmt.Sprintf to the rescue](chapter_7/61_fmt_sprintf_to_the_rescue/main.go) (Go Playground: [https://go.dev/play/p/b6APk-xVK9X](https://go.dev/play/p/b6APk-xVK9X))
+62. [Package strconv examples](chapter_7/62_package_strconv_examples/main.go) (Go Playground: [https://go.dev/play/p/5kW2FyxBGgU](https://go.dev/play/p/5kW2FyxBGgU))
+63. [A custom BoolToI helper function](chapter_7/63_a_custom_booltoi_helper_function) (Go Playground: [https://go.dev/play/p/gseJ2vzyDSc](https://go.dev/play/p/gseJ2vzyDSc))
 
 ### Chapter 8 - Managing program flow
 
