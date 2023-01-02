@@ -106,34 +106,34 @@ One caveat, not all examples are demonstrations of best practice :)
 
 ### Chapter 8 - Managing program flow
 
-64. Using goto to restart function execution
-65. Simple function with conditional if/else logic
-66. Eliminating the *else* statements
-67. Short-form if statement
-68. Simple switch with default
-69. Expressionless switch statement
-70. Short-form switch with multiple match tests
-71. Fallthrough to execute the next case
-72. Infinite loop with for
-73. Three component loop with for
-74. While equivalent using for
-75. Do while equivalent with for
-76. For each performed using idiomatic for range
-77. Using break to exit a loop
-78. Using continue to advance to next loop iteration
-79. Using errors.Is to handle different error values
-80. A custom error type
-81. Error wrapping and unwrapping
-82. Basic panic and recover
-83. Embedding log.Logger to augment its features
+64. [Using goto to restart function execution]() (Go Playground:[]())
+65. [Simple function with conditional if/else logic]() (Go Playground:[]())
+66. [Eliminating the *else* statements]() (Go Playground:[]())
+67. [Short-form if statement]() (Go Playground:[]())
+68. [Simple switch with default]() (Go Playground:[]())
+69. [Expressionless switch statement]() (Go Playground:[]())
+70. [Short-form switch with multiple match tests]() (Go Playground:[]())
+71. [Fallthrough to execute the next case]() (Go Playground:[]())
+72. [Infinite loop with for]() (Go Playground:[]())
+73. [Three component loop with for]() (Go Playground:[]())
+74. [While equivalent using for]() (Go Playground:[]())
+75. [Do while equivalent with for]() (Go Playground:[]())
+76. [For each performed using idiomatic for range]() (Go Playground:[]())
+77. [Using break to exit a loop]() (Go Playground:[]())
+78. [Using continue to advance to next loop iteration]() (Go Playground:[]())
+79. [Using errors.Is to handle different error values]() (Go Playground:[]())
+80. [A custom error type]() (Go Playground:[]())
+81. [Error wrapping and unwrapping]() (Go Playground:[]())
+82. [Basic panic and recover]() (Go Playground:[]())
+83. [Embedding log.Logger to augment its features]() (Go Playground:[]())
 
 ### Chapter 9 - Digging deeper
 
-84. Passing values as variadic arguments
-85. Anonymous and named return parameters
-86. Bug risk or not?
-87. Callback style functions
-88. Closure functions
+84. [Passing values as variadic arguments]() (Go Playground:[]())
+85. [Anonymous and named return parameters]() (Go Playground:[]())
+86. [Bug risk or not?]() (Go Playground:[]())
+87. [Callback style functions]() (Go Playground:[]())
+88. [Closure functions]() (Go Playground:[]())
 
 ### Chapter 10 - Concurrency
 
