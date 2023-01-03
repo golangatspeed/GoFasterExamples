@@ -13,7 +13,8 @@ strip away the noise to highlight the principles being demonstrated.
 They may well be enough as-is, but, if not please consider [purchasing my book](https://leanpub.com/gofaster). It's inexpensive and
 thorough and I'm confident it will help you learn Go, faster.
 
-One caveat, not all examples are demonstrations of best practice :)
+A caveat, not all examples are demonstrations of best practice and some are specifically set up to generate compile time
+errors :)
 
 ## Contents
 
