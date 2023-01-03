@@ -130,11 +130,11 @@ errors :)
 
 ### Chapter 9 - Digging deeper
 
-84. [Passing values as variadic arguments]() (Go Playground: []())
-85. [Anonymous and named return parameters]() (Go Playground: []())
-86. [Bug risk or not?]() (Go Playground: []())
-87. [Callback style functions]() (Go Playground: []())
-88. [Closure functions]() (Go Playground: []())
+84. [Passing values as variadic arguments](chapter_9/84_passing_values_as_variadic_arguments/main.go) (Go Playground: [https://go.dev/play/p/NPutwf2aF4l](https://go.dev/play/p/NPutwf2aF4l))
+85. [Anonymous and named return parameters](chapter_9/85_anonymous_and_named_return_parameters/main.go) (Go Playground: [https://go.dev/play/p/RdVlD9CwJS4](https://go.dev/play/p/RdVlD9CwJS4))
+86. [Bug risk or not?](chapter_9/86_bug_risk_or_not/main.go) (Go Playground: [https://go.dev/play/p/gHxfLdGgTaX](https://go.dev/play/p/gHxfLdGgTaX))
+87. [Callback style functions](chapter_9/87_callback_style_functions/main.go) (Go Playground: [https://go.dev/play/p/KXSxlwcWJB4](https://go.dev/play/p/KXSxlwcWJB4))
+88. [Closure functions](chapter_9/88_closure_functions/main.go) (Go Playground: [https://go.dev/play/p/x8XnvAM6O9C](https://go.dev/play/p/x8XnvAM6O9C))
 
 ### Chapter 10 - Concurrency
 
