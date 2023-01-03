@@ -1,0 +1,1 @@
+package _8_closure_functions
