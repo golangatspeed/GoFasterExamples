@@ -28,6 +28,6 @@ func NewCustomer3(name string) *Customer {
 func main() {
 	input := "Joe Blogs"
 	_ = NewCustomer(input)
-	//_ = NewCustomer2(input)
-	//_ = NewCustomer3(input)
+	_ = NewCustomer2(input)
+	_ = NewCustomer3(input)
 }

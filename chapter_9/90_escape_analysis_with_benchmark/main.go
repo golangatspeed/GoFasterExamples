@@ -9,7 +9,8 @@ func main() {
 	input2 := "Joe Blogs"
 
 	fmt.Println(input1)
-	//fmt.Println(input2)
+	fmt.Println(input2)
+
 	//println(input1)
-	println(input2)
+	//println(input2)
 }
