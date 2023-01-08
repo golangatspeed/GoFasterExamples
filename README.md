@@ -135,6 +135,9 @@ errors :)
 86. [Bug risk or not?](chapter_9/86_bug_risk_or_not/main.go) (Go Playground: [https://go.dev/play/p/gHxfLdGgTaX](https://go.dev/play/p/gHxfLdGgTaX))
 87. [Callback style functions](chapter_9/87_callback_style_functions/main.go) (Go Playground: [https://go.dev/play/p/KXSxlwcWJB4](https://go.dev/play/p/KXSxlwcWJB4))
 88. [Closure functions](chapter_9/88_closure_functions/main.go) (Go Playground: [https://go.dev/play/p/x8XnvAM6O9C](https://go.dev/play/p/x8XnvAM6O9C))
+89. [Pointer return for database connection](chapter_9/89_pointer_return_for_database_connection/main.go) (Go Playground: [https://go.dev/play/p/0afFBh0GaFG](https://go.dev/play/p/0afFBh0GaFG))
+90. [Escape analysis with benchmark](chapter_9/90_escape_analysis_with_benchmark) (Go Playground: [https://go.dev/play/p/rqTcK20eVqV](https://go.dev/play/p/rqTcK20eVqV))
+91. [Escape analysis on function returns](chapter_9/91_escape_analysis_on_function_returns) (Go Playground: [https://go.dev/play/p/rC5x05MpKP5](https://go.dev/play/p/rC5x05MpKP5))
 
 ### Chapter 10 - Concurrency
 
