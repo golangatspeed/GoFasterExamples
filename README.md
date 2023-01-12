@@ -152,6 +152,8 @@ errors :)
 103. [Modify main](chapter_9/101_102_103_notifier_service_interface/main.go)
 104. [Creating a mock notifications service](chapter_9/104_105_creating_a_mock_notifications_service/notifications/mock.go)
 105. [A better unit test](chapter_9/104_105_creating_a_mock_notifications_service/main_test.go)
+106. [Injecting makeCallToAPI](chapter_9/106_107_injecting_makecalltoapi/main.go)
+107. [An alternative mock and unit test](chapter_9/106_107_injecting_makecalltoapi/main_test.go)
 
 ### Chapter 10 - Concurrency
 
