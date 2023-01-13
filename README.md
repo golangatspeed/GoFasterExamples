@@ -154,6 +154,8 @@ errors :)
 105. [A better unit test](chapter_9/104_105_creating_a_mock_notifications_service/main_test.go)
 106. [Injecting makeCallToAPI](chapter_9/106_107_injecting_makecalltoapi/main.go)
 107. [An alternative mock and unit test](chapter_9/106_107_injecting_makecalltoapi/main_test.go)
+108. [Type assertion provides the concrete type](chapter_9/108_type_assertion_provides_the_concrete_type/main.go) (Go Playground: [https://go.dev/play/p/n9njIiD7Kk1](https://go.dev/play/p/n9njIiD7Kk1))
+109. [Invalid type assertion, compiles but will panic](chapter_9/109_invalid_type_assertion_code_compiles_but_will_panic/main.go) (Go Playground: [https://go.dev/play/p/j3egltwQKPo](https://go.dev/play/p/j3egltwQKPo))
 
 ### Chapter 10 - Concurrency
 
