@@ -3,7 +3,7 @@
 Work in progress.
 
 The [Go Faster book](https://leanpub.com/gofaster) has many code examples to accompany the text.
-The book is approximately 80% complete, at 150 pages and includes over 100 Go code examples.
+The book is approximately 80% complete, at 155+ pages and includes over 115 Go code examples.
 
 I'm listing them here together with a link to the executable code on the Go Playground (where applicable).
 
@@ -156,6 +156,12 @@ errors :)
 107. [An alternative mock and unit test](chapter_9/106_107_injecting_makecalltoapi/main_test.go)
 108. [Type assertion provides the concrete type](chapter_9/108_type_assertion_provides_the_concrete_type/main.go) (Go Playground: [https://go.dev/play/p/n9njIiD7Kk1](https://go.dev/play/p/n9njIiD7Kk1))
 109. [Invalid type assertion, compiles but will panic](chapter_9/109_invalid_type_assertion_code_compiles_but_will_panic/main.go) (Go Playground: [https://go.dev/play/p/j3egltwQKPo](https://go.dev/play/p/j3egltwQKPo))
+110. [Safely performing a type assertion](chapter_9/110_safely_performing_the_type_assertion/main.go) (Go Playground: [https://go.dev/play/p/3jfW7_hkRjM](https://go.dev/play/p/3jfW7_hkRjM))
+111. [Type switch style assertion with default case](chapter_9/111_type_switch_with_default_case/main.go) (Go Playground:[https://go.dev/play/p/0ovjw0QFJtL](https://go.dev/play/p/0ovjw0QFJtL)) 
+112. [Using reflection to discover a variable's type](chapter_9/112_using_reflection_to_discover_type_of_variable/main.go) (Go Playground:[https://go.dev/play/p/HFJswkAEnB5](https://go.dev/play/p/HFJswkAEnB5))
+113. [Using reflection to determine if variable is a value or pointer](chapter_9/113_using_reflection_to_determine_if_value_or_pointer/main.go) (Go Playground:[https://go.dev/play/p/Y7p3BSuVGjN](https://go.dev/play/p/Y7p3BSuVGjN))
+114. [Using reflection to work with a struct](chapter_9/114_using_reflection_to_work_with_a_struct/main.go) (Go Playground:[https://go.dev/play/p/D1GKlMeHs0V](https://go.dev/play/p/D1GKlMeHs0V))
+115. [Performance overhead of reflection](chapter_9/115_performance_overhead_of_reflection/main.go)
 
 ### Chapter 10 - Concurrency
 

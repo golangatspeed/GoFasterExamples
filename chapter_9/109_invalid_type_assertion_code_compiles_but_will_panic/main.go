@@ -4,7 +4,7 @@ func main() {
 	var i interface{}
 	i = "this is a string"
 
-	// we assert that it is in interface contains a integer value
+	// we assert the interface contains an integer value
 	x := i.(int)
 	_ = x
 }
