@@ -3,7 +3,7 @@
 Work in progress.
 
 The [Go Faster book](https://leanpub.com/gofaster) has many code examples to accompany the text.
-The book is approximately 80% complete, at 155+ pages and includes over 115 Go code examples.
+The book is approximately 85% complete, at 170+ pages 38,000 words and includes over 124 Go code examples.
 
 I'm listing them here together with a link to the executable code on the Go Playground (where applicable).
 
@@ -162,6 +162,15 @@ errors :)
 113. [Using reflection to determine if variable is a value or pointer](chapter_9/113_using_reflection_to_determine_if_value_or_pointer/main.go) (Go Playground: [https://go.dev/play/p/Y7p3BSuVGjN](https://go.dev/play/p/Y7p3BSuVGjN))
 114. [Using reflection to work with a struct](chapter_9/114_using_reflection_to_work_with_a_struct/main.go) (Go Playground: [https://go.dev/play/p/D1GKlMeHs0V](https://go.dev/play/p/D1GKlMeHs0V))
 115. [Performance overhead of reflection](chapter_9/115_performance_overhead_of_reflection/main.go)
+116. [Adding two *int64* integers](chapter_9/116_adding_two_int64_integers/main.go) (Go Playground: [https://go.dev/play/p/XDU49bgxRs_j](https://go.dev/play/p/XDU49bgxRs_j))
+117. [Adding other integer types](chapter_9/117_adding_other_integer_types/main.go) (Go Playground: [https://go.dev/play/p/Q3SzagyF-CS](https://go.dev/play/p/Q3SzagyF-CS))
+118. [A single "sumIntAny" implementation](chapter_9/118_a_single_sumintany_implementation/main.go) (Go Playground: [https://go.dev/play/p/GZ0JOBSwu9_n](https://go.dev/play/p/GZ0JOBSwu9_n))
+119. [A generic implementation of SumAny (Go 1.18+)](chapter_9/119_a_generic_implementation_of_sumany/main.go) (Go Playground: [https://go.dev/play/p/jbzggpV7uM8](https://go.dev/play/p/jbzggpV7uM8))
+120. [Using a type constraint list (Go 1.18+)](chapter_9/120_using_a_type_constraint_list/main.go) (Go Playground: [https://go.dev/play/p/yZemwfvY6ST](https://go.dev/play/p/yZemwfvY6ST))
+121. [Creating a custom constraint (Go 1.18+)](chapter_9/121_creating_a_custom_constraint/main.go) (Go Playground: [https://go.dev/play/p/IxpNJBWPkZo](https://go.dev/play/p/IxpNJBWPkZo))
+122. [Using composition with constraints (Go 1.18+)](chapter_9/122_using_composition_with_constraints/main.go) (Go Playground: [https://go.dev/play/p/2yARr7xNBG8](https://go.dev/play/p/2yARr7xNBG8))
+123. [Allow any type with underlying type int (Go 1.18+)](chapter_9/123_allow_any_type_with_underlying_type_int/main.go) (Go Playground: [https://go.dev/play/p/b8jNMrEtUcL](https://go.dev/play/p/b8jNMrEtUcL))
+124. [Multiple type parameters (Go 1.18+)](chapter_9/124_multiple_type_parameters/main.go) (Go Playground: [https://go.dev/play/p/DFeMUaFqBzG](https://go.dev/play/p/DFeMUaFqBzG))
 
 ### Chapter 10 - Concurrency
 
