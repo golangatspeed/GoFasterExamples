@@ -8,7 +8,7 @@ func main() {
 		"Dave Blogs": false,
 	}
 
-	if ok, active := activeUser["Trevor Blogs"]; !ok {
+	if active, ok := activeUser["Trevor Blogs"]; !ok {
 		fmt.Println("User does not exist")
 	} else {
 		fmt.Println("Trevor is active:", active)
