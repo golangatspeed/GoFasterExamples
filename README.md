@@ -171,6 +171,9 @@ errors :)
 122. [Using composition with constraints (Go 1.18+)](chapter_9/122_using_composition_with_constraints/main.go) (Go Playground: [https://go.dev/play/p/2yARr7xNBG8](https://go.dev/play/p/2yARr7xNBG8))
 123. [Allow any type with underlying type int (Go 1.18+)](chapter_9/123_allow_any_type_with_underlying_type_int/main.go) (Go Playground: [https://go.dev/play/p/b8jNMrEtUcL](https://go.dev/play/p/b8jNMrEtUcL))
 124. [Multiple type parameters (Go 1.18+)](chapter_9/124_multiple_type_parameters/main.go) (Go Playground: [https://go.dev/play/p/DFeMUaFqBzG](https://go.dev/play/p/DFeMUaFqBzG))
+
+### Chapter 10 - Concurrency
+
 125. [Setting GOMAXPROCS during runtime](chapter_10/125_setting_GOMAXPROCS_during_runtime/main.go) (Go Playground:[https://go.dev/play/p/ptFRl7NAoT_6](https://go.dev/play/p/ptFRl7NAoT_6))
 126. [Where is the output?](chapter_10/126_where_is_the_output/main.go) (Go Playground:[https://go.dev/play/p/nd5nwv5b3ok](https://go.dev/play/p/nd5nwv5b3ok))
 127. [Using context.WithCancel()](chapter_10/127_using_context_withcancel/main.go) (Go Playground:[https://go.dev/play/p/aAbmie_rtVV](https://go.dev/play/p/aAbmie_rtVV))
@@ -178,9 +181,6 @@ errors :)
 129. [Using context.WithDeadline()](chapter_10/129_using_context_withdeadline/main.go) (Go Playground:[https://go.dev/play/p/MyjT3EVGkus](https://go.dev/play/p/MyjT3EVGkus))
 130. [Sharing data via context](chapter_10/130_sharing_data_via_context/main.go) (Go Playground:[https://go.dev/play/p/7p504omEWsq](https://go.dev/play/p/7p504omEWsq))
 131. [Waitgroup updating shared state](chapter_10/131_waitgroup_updating_shared_state) (Go Playground:[https://go.dev/play/p/Z3Rh0ufgiVr](https://go.dev/play/p/Z3Rh0ufgiVr))
-
-
-### Chapter 10 - Concurrency
 
 ### Chapter 11 - Quality Assurance
 
