@@ -181,6 +181,19 @@ errors :)
 129. [Using context.WithDeadline()](chapter_10/129_using_context_withdeadline/main.go) (Go Playground:[https://go.dev/play/p/MyjT3EVGkus](https://go.dev/play/p/MyjT3EVGkus))
 130. [Sharing data via context](chapter_10/130_sharing_data_via_context/main.go) (Go Playground:[https://go.dev/play/p/7p504omEWsq](https://go.dev/play/p/7p504omEWsq))
 131. [Waitgroup updating shared state](chapter_10/131_waitgroup_updating_shared_state) (Go Playground:[https://go.dev/play/p/Z3Rh0ufgiVr](https://go.dev/play/p/Z3Rh0ufgiVr))
+132. WaitGroup updating shared state unsafely
+133. Mutex to guarantee exclusivity of access
+134. Signalling channel for mutual exclusion
+135. Sizing the buffer to store results
+136. Unidirectional channel types
+137. Unbuffered channel for signalling
+138. Signalling by closing the channel
+139. Signalling multiple goroutines by closing the channel
+140. Reading from a closed channel
+141. Reading from a channel with range
+142. Reading from a closed channel with range
+143. Monitoring multiple channels with select
+
 
 ### Chapter 11 - Quality Assurance
 
