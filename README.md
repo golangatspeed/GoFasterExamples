@@ -181,18 +181,18 @@ errors :)
 129. [Using context.WithDeadline()](chapter_10/129_using_context_withdeadline/main.go) (Go Playground:[https://go.dev/play/p/MyjT3EVGkus](https://go.dev/play/p/MyjT3EVGkus))
 130. [Sharing data via context](chapter_10/130_sharing_data_via_context/main.go) (Go Playground:[https://go.dev/play/p/7p504omEWsq](https://go.dev/play/p/7p504omEWsq))
 131. [Waitgroup updating shared state](chapter_10/131_waitgroup_updating_shared_state) (Go Playground:[https://go.dev/play/p/Z3Rh0ufgiVr](https://go.dev/play/p/Z3Rh0ufgiVr))
-132. WaitGroup updating shared state unsafely
-133. Mutex to guarantee exclusivity of access
-134. Signalling channel for mutual exclusion
-135. Sizing the buffer to store results
-136. Unidirectional channel types
-137. Unbuffered channel for signalling
-138. Signalling by closing the channel
-139. Signalling multiple goroutines by closing the channel
-140. Reading from a closed channel
-141. Reading from a channel with range
-142. Reading from a closed channel with range
-143. Monitoring multiple channels with select
+132. [WaitGroup updating shared state unsafely](chapter_10/132_waitgroup_updating_shared_state_unsafely/main.go) (Go Playground:[https://go.dev/play/p/dW1kdCrqmCu](https://go.dev/play/p/dW1kdCrqmCu))
+133. [Mutex to guarantee exclusivity of access](chapter_10/133_mutex_to_guarantee_exclusivity_of_access/main.go) (Go Playground:[https://go.dev/play/p/ZObOF_af_W9](https://go.dev/play/p/ZObOF_af_W9))
+134. [Signalling channel for mutual exclusion](chapter_10/134_signalling_channel_for_mutual_exclusion/main.go) (Go Playground:[https://go.dev/play/p/JHiaz5Rjvii](https://go.dev/play/p/JHiaz5Rjvii))
+135. [Sizing the buffer to store results](chapter_10/135_sizing_the_buffer_to_store_results/main.go) (Go Playground:[https://go.dev/play/p/YVTWPzUYht9](https://go.dev/play/p/YVTWPzUYht9))
+136. [Unidirectional channel types](chapter_10/136_unidirectional_channel_types/main.go) (Go Playground:[https://go.dev/play/p/ztggMJsU0cj](https://go.dev/play/p/ztggMJsU0cj))
+137. [Unbuffered channel for signalling](chapter_10/137_unbuffered_channel_for_signalling/main.go) (Go Playground:[https://go.dev/play/p/ro8OHTv4G4x](https://go.dev/play/p/ro8OHTv4G4x))
+138. [Signalling by closing the channel](chapter_10/138_signalling_by_closing_the_channel/main.go) (Go Playground:[https://go.dev/play/p/ciX1rKK-XAV](https://go.dev/play/p/ciX1rKK-XAV))
+139. [Signalling multiple goroutines by closing the channel](chapter_10/139_signalling_multiple_goroutines_by_closing_the_channel/main.go) (Go Playground:[https://go.dev/play/p/vHFbaV5Tyg3](https://go.dev/play/p/vHFbaV5Tyg3))
+140. [Reading from a closed channel](chapter_10/140_reading_from_a_closed_channel/main.go) (Go Playground:[https://go.dev/play/p/iedP9__fCzR](https://go.dev/play/p/iedP9__fCzR))
+141. [Reading from a channel with range](chapter_10/141_reading_from_a_channel_with_range/main.go) (Go Playground:[https://go.dev/play/p/Qdo3mWvKmmg](https://go.dev/play/p/Qdo3mWvKmmg))
+142. [Reading from a closed channel with range](chapter_10/142_reading_from_a_closed_channel_with_range/main.go) (Go Playground:[https://go.dev/play/p/X5kcrsmOpQW](https://go.dev/play/p/X5kcrsmOpQW))
+143. [Monitoring multiple channels with select](chapter_10/143_monitoring_multiple_channels_with_select/main.go) (Go Playground:[https://go.dev/play/p/L8d4dFaVta3](https://go.dev/play/p/L8d4dFaVta3))
 
 
 ### Chapter 11 - Quality Assurance
