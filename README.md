@@ -3,17 +3,17 @@
 Work in progress.
 
 The [Go Faster book](https://leanpub.com/gofaster) has many code examples to accompany the text.
-The book is approximately 95% complete, at 200+ pages 45,000+ words and includes over 140 Go code examples.
+The book is approximately 95% complete, at 200+ pages, 45,000+ words and includes over 140 Go code examples.
 
-I'm listing them here together with a link to the executable code on the Go Playground (where applicable).
+I'm including all the examples here, together with a link to the executable code on the Go Playground (where applicable).
 
 There's no explainer text to accompany the examples, that's in the book, but the examples are designed to 
 strip away the noise to highlight the principles being demonstrated.
 
-They may well be enough as-is, but, if not please consider [purchasing my book](https://leanpub.com/gofaster). It's inexpensive and
-thorough and I'm confident it will help you learn Go, faster.
+They may well be enough as-is, but if not, please consider [purchasing my book](https://leanpub.com/gofaster). It's inexpensive and
+thorough, and I'm confident it will help you learn Go, faster.
 
-A caveat, not all examples are demonstrations of best practice and some are specifically set up to generate compile time
+One caveat. Not all examples are demonstrations of best practice and some are specifically set up to generate compile time and runtime
 errors :)
 
 ## Contents
