@@ -14,7 +14,7 @@ func PrintList(list []int) {
 	fmt.Println(list)
 }
 
-func ExamplePerm() {
+func ExampleList() {
 	for _, v := range List(5) {
 		fmt.Println(v)
 	}
