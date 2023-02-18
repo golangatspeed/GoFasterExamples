@@ -1,9 +1,7 @@
 # Go Faster Example Code
 
-Work in progress.
-
 The [Go Faster book](https://leanpub.com/gofaster) has many code examples to accompany the text.
-The book is approximately 95% complete, at 200+ pages, 45,000+ words and includes over 140 Go code examples.
+The book completed, at 200+ pages, 48,000+ words and includes over 145 Go code examples.
 
 I'm including all the examples here, together with a link to the executable code on the Go Playground (where applicable).
 
@@ -194,8 +192,12 @@ errors :)
 142. [Reading from a closed channel with range](chapter_10/142_reading_from_a_closed_channel_with_range/main.go) (Go Playground:[https://go.dev/play/p/X5kcrsmOpQW](https://go.dev/play/p/X5kcrsmOpQW))
 143. [Monitoring multiple channels with select](chapter_10/143_monitoring_multiple_channels_with_select/main.go) (Go Playground:[https://go.dev/play/p/L8d4dFaVta3](https://go.dev/play/p/L8d4dFaVta3))
 
-
 ### Chapter 11 - Quality Assurance
+
+144. [Example test with subtests](chapter_11/144_example_test_with_subtests/main.go) (Go Playground:[https://go.dev/play/p/2NNWfknTbXC](https://go.dev/play/p/2NNWfknTbXC))
+145. [Examples with ordered and unordered output](chapter_11/145_examples_with_ordered_and_unordered_output/main.go) (Go Playground:[https://go.dev/play/p/RRE5gXK3A87](https://go.dev/play/p/RRE5gXK3A87))
+146. [Modify cod to obtain a CPU profile](chapter_11/146_modify_code_to_obtain_a_cpu_profile/main.go)
+147. [Realtime profiling during program execution](chapter_11/147_realtime_profiling_during_program_execution/main.go)
 
 
 
