@@ -196,7 +196,7 @@ errors :)
 
 144. [Example test with subtests](chapter_11/144_example_test_with_subtests/main.go) (Go Playground:[https://go.dev/play/p/2NNWfknTbXC](https://go.dev/play/p/2NNWfknTbXC))
 145. [Examples with ordered and unordered output](chapter_11/145_examples_with_ordered_and_unordered_output/main.go) (Go Playground:[https://go.dev/play/p/RRE5gXK3A87](https://go.dev/play/p/RRE5gXK3A87))
-146. [Modify cod to obtain a CPU profile](chapter_11/146_modify_code_to_obtain_a_cpu_profile/main.go)
+146. [Modify code to obtain a CPU profile](chapter_11/146_modify_code_to_obtain_a_cpu_profile/main.go)
 147. [Realtime profiling during program execution](chapter_11/147_realtime_profiling_during_program_execution/main.go)
 
 
